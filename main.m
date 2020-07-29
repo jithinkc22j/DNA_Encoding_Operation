@@ -1,7 +1,8 @@
 
 % Main fuction - Perform DNA_Encoding operation
 %-------------------------------------------------------------------------
-
+web('https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing')
+web('published_work.html')
 %-------------------------------------------------------------------------
 
 % DEMO:
